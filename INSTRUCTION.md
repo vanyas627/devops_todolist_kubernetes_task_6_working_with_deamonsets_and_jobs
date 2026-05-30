@@ -1,7 +1,7 @@
-# 1) How to deploy cronjon.yaml and daemonset.yaml:
+# 1) How to deploy cronjon.yml and daemonset.yml:
 
-    kubectl apply -f daemonset.yaml
-    kubectl apply -f cronjob.yaml
+    kubectl apply -f daemonset.yml
+    kubectl apply -f cronjob.yml
 
 # 2) How to validate the solution:
 
